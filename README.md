@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Youssef!
 
-![Developer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXF4eXF4eXF4eXF4eXF4eXF4eXF4eXF4eXF4eXF4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Developer GIF](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif)
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ahmed-10b822280?utm_source=share_via&utm_content=profile&utm_medium=member_android)
